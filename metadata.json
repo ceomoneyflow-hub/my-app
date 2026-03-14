@@ -1,0 +1,5 @@
+{
+  "name": "카드 뒤집기 마스터 (Card Flip Master)",
+  "description": "다양한 난이도의 그리드에서 카드를 뒤집어 짝을 맞추는 기억력 테스트 게임입니다.",
+  "requestFramePermissions": []
+}
